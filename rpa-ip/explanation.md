@@ -4,7 +4,7 @@
 ## Enhancement 1: Renaming Request Files with Timestamp
 
 ### Explanation:
-In this enhancement, we aim to improve the organization and sorting of queries by appending a timestamp to the filename of processed request files before moving them to the Requests folder.
+In this enhancement, the aim is to improve the organization and sorting of queries by appending a timestamp to the filename of processed request files before moving them to the Requests folder.
 
 ### Implementation Steps:
 1. After processing the request, we extract the current date and time timestamp.
