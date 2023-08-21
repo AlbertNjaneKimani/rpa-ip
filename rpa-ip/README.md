@@ -9,7 +9,7 @@ This project is about demonstrating the knowledge of Robotic process automation 
 The link to access the project on the git is : https://github.com/AlbertNjaneKimani/rpa-ip
 
 ## KNOWN BUGS
-At the moment there are no known bugs.
+At the moment there are no known bugs at the momment.
 
 ## Technologies Used
 GitHub
